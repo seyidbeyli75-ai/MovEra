@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718443435419",
+    "project_id": "movera-99540",
+    "storage_bucket": "movera-99540.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718443435419:android:bd90e1e80eac3b2a75fd3e",
+        "android_client_info": {
+          "package_name": "com.example.movera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMDZgZd7YW6yG59MuZPmgjrujvj1XZw-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

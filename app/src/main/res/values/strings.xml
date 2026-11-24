@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name_txt">MovEra</string>
+    <string name="welcome_app_txt">Welcome to MovEra</string>
+    <string name="the_best_txt">The best movie streaming app of the century to
+    make your days great!</string>
+    <string name="get_started_txt">Get Started</string>
+    <string name="continue_facebook_txt">Continue With Facebook </string>
+    <string name="continue_google_txt">Continue With Google </string>
+    <string name="continue_apple_txt">Continue With Apple </string>
+    <string name="sign_password_txt">Sign in with password </string>
+    <string name="not_account">Do not have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_account">Login to Your Account</string>
+    <string name="email_txt">Email</string>
+    <string name="password_txt">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_txt">Sign in</string>
+    <string name="forgot_password_txt">Forgot the password?</string>
+    <string name="create_account_txt">Create Your Account</string>
+    <string name="having_account">Already have an account?</string>
+    <string name="forgot_txt">Forgot password?</string>
+    <string name="code_sended">Code has been sent to +994 50 2** ** 85</string>
+    <string name="resend_txt">Resend code in</string>
+    <string name="verify_txt">Verify</string>
+    <string name="fill_profile_txt">Fill Your Profile</string>
+    <string name="fullname_txt">Full Name</string>
+    <string name="nickname_txt">Nickname</string>
+    <string name="phoneNumber_txt">Phone Number</string>
+    <string name="gender_txt">Gender</string>
+    <string name="skip_txt">Skip</string>
+    <string name="continue_txt">Continue</string>
+    <string name="creatingPassword_txt">Create New Password</string>
+    <string name="creatingYourPassword_txt">Create Your New Password</string>
+    <string name="superPassword_txt">SuperSecretPassword</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
